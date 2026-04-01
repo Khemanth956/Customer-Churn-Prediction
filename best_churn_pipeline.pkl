@@ -1,0 +1,4 @@
+['credit_score', 'country', 'gender', 'age', 'tenure', 'balance',
+ 'products_number', 'credit_card', 'active_member',
+ 'estimated_salary', 'balance_per_product', 'salary_balance_ratio',
+ 'age_group', 'tenure_bucket', 'high_balance']
